@@ -7,8 +7,9 @@ Welcome to my GitHub! I specialize in building robust APIs and data-driven appli
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, Java, SQL
-- **Frameworks:** ASP.NET Core
+- **Languages:** C#, Java, SQL JavaScript
+- **Frameworks:** ASP.NET Core react
+- 
 - **Databases:** SQL Server, MongoDB
 - **Other Skills:** API Development, Data Modeling, Backend Systems
 
@@ -30,6 +31,7 @@ Welcome to my GitHub! I specialize in building robust APIs and data-driven appli
 <!--
 **ayindig1948/ayindig1948** is a ✨ special ✨ repository because its README will appear on your GitHub profile!
 -->
+
 
 
 
